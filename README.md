@@ -1,2 +1,2 @@
 # Largest-Possible-Number-Challenge
-The challenge is to create the largest possible number out of a list of numbers.
+My attempt at a challenge to make the largest possible number out of a list of numbers
